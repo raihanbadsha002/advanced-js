@@ -4,8 +4,13 @@ const numArray = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 // console.log(sliceArray);
 
 // Splice Array----------------------------------❤❤❤
-const removed = numArray.splice(2,3);
-console.log(removed);
+//  numArray.splice(2,5);
+// console.log(numArray);
+
+// const months = ['Jan', 'March', 'April', 'June'];
+// months.splice(1, 0, 'Feb');
+// // inserts at index 1
+// console.log(months);
 
 // Join Array-----------------------------------❤❤❤
 // const joinArray = numArray.join("-");
